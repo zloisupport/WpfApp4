@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <DrawingGroup x:Key="InstallerHeaderBackgroundDrawing">
+        <DrawingGroup.Children>
+            <DrawingGroup>
+                <DrawingGroup.Children>
+                    <GeometryDrawing Geometry="F1M312.74,103.801L315.511,98.654 323.549,97.06 348.024,159.162 327.717,132.087 312.74,103.801z">
+                        <GeometryDrawing.Brush>
+                            <LinearGradientBrush MappingMode="Absolute" StartPoint="579.962,-182.996" EndPoint="549.038,-121.643">
+                                <LinearGradientBrush.GradientStops>
+                                    <GradientStop Offset="0.00" Color="AliceBlue" />
+                                    <GradientStop Offset="0.47" Color="AliceBlue" />
+                                    <GradientStop Offset="1.00" Color="AliceBlue" />
+                                </LinearGradientBrush.GradientStops>
+                                <LinearGradientBrush.Transform>
+                                    <MatrixTransform Matrix="-0.999,-0.038,-0.038,0.999,889.478,302.871" />
+                                </LinearGradientBrush.Transform>
+                            </LinearGradientBrush>
+                        </GeometryDrawing.Brush>
+                    </GeometryDrawing>
+                </DrawingGroup.Children>
+            </DrawingGroup>
+          
+        </DrawingGroup.Children>
+    </DrawingGroup>
+</ResourceDictionary>
